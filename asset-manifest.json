@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/E-Learning/static/css/main.c001752e.css",
+    "main.js": "/E-Learning/static/js/main.50b42e97.js",
+    "static/media/hero_image.png": "/E-Learning/static/media/hero_image.dda2444a6f3449f4b88c.png",
+    "static/media/seminar_default.jpg": "/E-Learning/static/media/seminar_default.bb4cf996c404f34572ca.jpg",
+    "static/media/card.webp": "/E-Learning/static/media/card.2e8628e559a83cb370b1.webp",
+    "index.html": "/E-Learning/index.html",
+    "main.c001752e.css.map": "/E-Learning/static/css/main.c001752e.css.map",
+    "main.50b42e97.js.map": "/E-Learning/static/js/main.50b42e97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c001752e.css",
+    "static/js/main.50b42e97.js"
+  ]
+}
